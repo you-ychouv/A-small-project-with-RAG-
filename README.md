@@ -1,4 +1,4 @@
-1. pdf extraction: raw text from the PDF with PyMuPDF
+1. Pdf extraction: raw text from the PDF with PyMuPDF
 2. Text chunking 
     overlap is needed in case of the ending of this chunk is actually at the very begining of the next one so we overlap in order to not lose the context.
     - try implement first 
